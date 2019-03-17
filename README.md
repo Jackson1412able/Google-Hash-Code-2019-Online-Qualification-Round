@@ -23,6 +23,7 @@ This solution implements Greedy Algorithm to tackle the problem. Here are the st
 - Look for slide that has the most score according to the scoring scheme and append the slide into slideshow, repeat until no slides left in the list of slides
 
 ## Usage
+Example:
 ```
-python ghc_new.py d_pet_pictures.txt pet_pictures.out
+python ghc_new.py d_pet_pictures.txt d_pet_pictures.out
 ```
